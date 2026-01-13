@@ -84,7 +84,7 @@ Kaggle Notes
     <strong>Connect with me:</strong>
     &nbsp;
     <a href="https://github.com/Adish786">GitHub</a> •
-    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
+    <!-- <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> • -->
     <a href="https://www.linkedin.com/in/adish-ansari-a89486a3/">LinkedIn</a> •
     <a href="mailto:adishansari786@gmail.com">Email</a> •
   </marquee>
